@@ -1,0 +1,18 @@
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\bin\Debug\netstandard2.0\s2.DAL.deps.json
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\bin\Debug\netstandard2.0\s2.DAL.dll
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.csprojAssemblyReference.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.AssemblyInfo.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\bin\Debug\netstandard2.0\s2.DAL.pdb
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.dll
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.pdb
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.csproj.CoreCompileInputs.cache
+E:\programming\mvc\project 1\p2\s2\s2.DAL\bin\Debug\netstandard2.0\s2.DAL.deps.json
+E:\programming\mvc\project 1\p2\s2\s2.DAL\bin\Debug\netstandard2.0\s2.DAL.dll
+E:\programming\mvc\project 1\p2\s2\s2.DAL\bin\Debug\netstandard2.0\s2.DAL.pdb
+E:\programming\mvc\project 1\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.csprojAssemblyReference.cache
+E:\programming\mvc\project 1\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.AssemblyInfoInputs.cache
+E:\programming\mvc\project 1\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.AssemblyInfo.cs
+E:\programming\mvc\project 1\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.csproj.CoreCompileInputs.cache
+E:\programming\mvc\project 1\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.dll
+E:\programming\mvc\project 1\p2\s2\s2.DAL\obj\Debug\netstandard2.0\s2.DAL.pdb

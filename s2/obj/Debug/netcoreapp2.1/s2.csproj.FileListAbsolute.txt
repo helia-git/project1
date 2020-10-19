@@ -1,0 +1,88 @@
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.deps.json
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.runtimeconfig.json
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.runtimeconfig.dev.json
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.dll
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.pdb
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.Views.dll
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.Views.pdb
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.AssemblyInfoInputs.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.AssemblyInfo.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorAssemblyInfo.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorAssemblyInfo.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.TagHelpers.input.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.TagHelpers.output.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorCoreGenerate.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.Views.pdb
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.dll
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.pdb
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.genruntimeconfig.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.csproj.CopyComplete
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.csprojAssemblyReference.cache
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Controllers\Index.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Controllers\Login.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignUp.cshtml.g.cs
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.DAL.dll
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.DAL.pdb
+C:\Users\ASUS-FX503\source\repos\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.csproj.CoreCompileInputs.cache
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\appsettings.json
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\libman.json
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.deps.json
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.runtimeconfig.json
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.runtimeconfig.dev.json
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.dll
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.pdb
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.Views.dll
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.Views.pdb
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.DAL.dll
+E:\programming\mvc\project 1\p2\s2\s2\bin\Debug\netcoreapp2.1\s2.DAL.pdb
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.csprojAssemblyReference.cache
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.AssemblyInfoInputs.cache
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.AssemblyInfo.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.csproj.CoreCompileInputs.cache
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorAssemblyInfo.cache
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorAssemblyInfo.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.TagHelpers.input.cache
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.TagHelpers.output.cache
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorCoreGenerate.cache
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Controllers\Index.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Controllers\Login.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignUp.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorTargetAssemblyInfo.cache
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.RazorTargetAssemblyInfo.cs
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.Views.pdb
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.csproj.CopyComplete
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.dll
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.pdb
+E:\programming\mvc\project 1\p2\s2\s2\obj\Debug\netcoreapp2.1\s2.genruntimeconfig.cache
